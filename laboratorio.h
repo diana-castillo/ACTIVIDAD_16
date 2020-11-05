@@ -32,5 +32,4 @@ class Laboratorio
             return l;
         }
 };
-
 #endif

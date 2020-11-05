@@ -2,9 +2,7 @@
 #include <fstream>
 #include <algorithm>
 
-Laboratorio::Laboratorio()
-{
-}
+Laboratorio::Laboratorio() { }
 
 void Laboratorio::agregarFinal(const Computadora &c)
 {

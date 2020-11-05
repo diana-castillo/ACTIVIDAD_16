@@ -74,5 +74,4 @@ class Computadora
             return marca <c.marca;
         }
 };
-
 #endif

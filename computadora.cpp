@@ -38,6 +38,6 @@ void Computadora::setColor(const string &v) {
     color = v;
 }
 
-string Computadora::getColor() {
+string Computadora::getColor(){
     return color;
 }
